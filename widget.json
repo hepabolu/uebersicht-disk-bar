@@ -1,0 +1,6 @@
+{
+  "name": "disk-bar",
+  "description": "Disk usage widget based on Adam Courtemanche's widget, designed to go with Coby Chapple's Memory Bar",
+  "author": "Helma van der Linden",
+  "email": "hepabolu@github.com"
+}
